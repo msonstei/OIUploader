@@ -12,10 +12,11 @@ SETUP:
 3. Save the local dotenv file as .env
 
  USE:
- Run the application
- Click "Select file" will open a selection window - select the file you want to opload
- The "File to upload" will update with the file name and location. If the file is incorrect, Click "Select file" again
- After selection the file, the "Upload file" button will be enabled. Click it to send the file to you local Open-webui environment
+ 1. Run the application
+ 2. Click "Select file" will open a selection window - select the file you want to opload
+ 3. The "File to upload" will update with the file name and location. If the file is incorrect, Click "Select file" again
+ 4. After selection the file, the "Upload file" button will be enabled. Click it to send the file to you local Open-webui environment
+
  The file will be uploaded and then scanned into Open-webui - This process takes a long time as it scans the entire database.
  Once both uploading and scanning are complete, the checkboxes will be checked and "Upload file" button will be locked.
 
@@ -23,4 +24,5 @@ SETUP:
 Uploading files and scanning takes a long time - I have had it take >10 minutes. The window may show as 'Not responding', but the process is running on your server.
 
 TODO:
-Have scanner only scan the new file.
+Have scanner only scan the new file, not entire directory.
+Make Linux version

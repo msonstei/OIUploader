@@ -24,5 +24,7 @@ SETUP:
 Uploading files and scanning takes a long time - I have had it take >10 minutes. The window may show as 'Not responding', but the process is running on your server.
 
 TODO:
-Have scanner only scan the new file, not entire directory.
-Make Linux version
+1. Have scanner only scan the new file, not entire directory.
+2. Make Linux version.
+3. Fix checkboxes to update individually - currently only checked after full processing is complete
+4. Add status bar to show progress

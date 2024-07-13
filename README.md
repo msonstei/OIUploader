@@ -34,3 +34,6 @@ TODO:
 2. Make Linux version.
 3. Fix checkboxes to update individually - currently only checked after full processing is complete
 4. Add status bar to show progress
+
+FINAL NOTE:
+Personally, I use pyinstaller to make this into an executable on my desktop. I didn't provide the exe so everyone can review the code and make your own decisions. 

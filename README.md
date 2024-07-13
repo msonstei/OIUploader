@@ -1,5 +1,5 @@
 # OIUploader
-A python application to upload files to open-webui - Windows version.
+A python3 application to upload files to open-webui - Windows version.
 This program uses the open-webui APIs.
 Program can load large files > 5Mb.
 
